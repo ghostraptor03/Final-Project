@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "text": "Does Stranger Things have more viewers than Breaking Bad?",
+        "answer": true
+    },
+    {
+        "id": 2,
+        "text": "Does The Office have more viewers than Friends?",
+        "answer": false
+    },
+    {
+        "id": 3,
+        "text": "Does Game of Thrones have more viewers than The Sopranos?",
+        "answer": true
+    },
+    {
+        "id": 4,
+        "text": "Does Sherlock have more viewers thanthan Doctor Who?",
+        "answer": false
+    },
+    {
+        "id": 5,
+        "text": "Does The Mandalorian have more viewers thann Star Wars: The Clone Wars?",
+        "answer": true
+    },
+    {
+        "id": 6,
+        "text": "Does Rick and Morty have more viewers than Adventure Time?",
+        "answer": true
+    },
+    {
+        "id": 7,
+        "text": "Does Black Mirror have more viewers than Westworld?",
+        "answer": false
+    },
+    {
+        "id": 8,
+        "text": "Does The Crown have more viewers than The Tudors?",
+        "answer": true
+    },
+    {
+        "id": 9,
+        "text": "Does Brooklyn Nine-Nine have more viewers than Parks and Recreation?",
+        "answer": false
+    },
+    {
+        "id": 10,
+        "text": "Does Peaky Blinders have more viewers than Boardwalk Empire?",
+        "answer": true
+    }
+]
