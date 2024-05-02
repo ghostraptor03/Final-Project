@@ -127,4 +127,265 @@
     "https://imgs.search.brave.com/JF7nSJbrN7R5nzgwSolVU6QhjCx-Z9MV2FfEopLCuFk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2VzcXVpcmV1/ay5jZG5kcy5uZXQv/MTcvMTMvMjA0OHgx/MTUyL2hkLWFzcGVj/dC0xNDkwNzE0NDc4/LXBlYWt5LWNpbGxp/YW4uanBnP3Jlc2l6/ZT0xMjAwOio",
     "https://imgs.search.brave.com/FAY44sZaKzJn_s2xoSPgc-TOjgIPugOOt2xk37d0gtQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY2RuLnByZC5h/cGkuZGlzY29tYXgu/Y29tLzIwMjMvMDUv/MDIvN2I1MjU2MWUt/NDAzZC0zMzEyLThl/YTItOTY0ZWMxNDll/ZWRlLmpwZWc_Zj1q/cGcmcT03NSZ3PTEy/ODAmdz0xMjAw"
   ]
-}]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1e"
+  },
+  "id": 11,
+  "text": "Does The Witcher have",
+  "text2": "more viewers than Umbrella Academy?",
+  "answer": true,
+  "imageUrls": [
+    "https://hips.hearstapps.com/hmg-prod/images/thewitcher-igstory-poster20190701-6015-sskkxu-1561998794.jpeg?crop=1.00xw:0.564xh;0.00170xw,0.0709xh&resize=640:*",
+    "https://tvline.com/wp-content/uploads/2020/07/the-umbrella-academy-season-2-premiere-1.jpg?w=600&h=400&crop=1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1f"
+  },
+  "id": 12,
+  "text": "Does Lucifer have",
+  "text2": "more viewers than Daredevel?",
+  "answer": false,
+  "imageUrls": [
+    "https://resizing.flixster.com/FOFNdQWaTBPW0-wyb2dsaygZX58=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20410134_b_h9_aa.jpg",
+    "https://variety.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-07-at-5.05.29-PM.png?w=1000&h=563&crop=1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1g"
+  },
+  "id": 13,
+  "text": "Does Money Heist have",
+  "text2": "more viewers than Narcos?",
+  "answer": true,
+  "imageUrls": [
+    "https://www.denofgeek.com/wp-content/uploads/2021/09/money-heist-season-5-tokyo-death-cliffhanger.jpeg?fit=2560%2C1440&w=1200&h=630&crop=1",
+    "https://www.thechannels.org/wp-content/uploads/2015/09/AMNarcosFinal-900x600.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1h"
+  },
+  "id": 14,
+  "text": "Does Greys Anatomy have",
+  "text2": "more viewers than Er?",
+  "answer": false,
+  "imageUrls": [
+    "https://www.pluggedin.com/wp-content/uploads/2020/01/greys-anatomy-review-image-1024x587.jpg",
+    "https://imageresizer.static9.net.au/V6FZjGH2smUa9RYFZEJzu5YjxDQ=/396x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F3196dbbf-5f04-43c4-b2b3-52b4380668b4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1i"
+  },
+  "id": 15,
+  "text": "Does Chernobyl have",
+  "text2": "more viewers than Band of Brothers?",
+  "answer": false,
+  "imageUrls": [
+    "https://i.insider.com/5cc705c7fa99af39d40bea44?width=700",
+    "https://www.nationalww2museum.org/sites/default/files/2021-06/band-of-brothers-960x700.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1j"
+  },
+  "id": 16,
+  "text": "Does This is Us have",
+  "text2": "more viewers than Modern Family?",
+  "answer": false,
+  "imageUrls": [
+    "https://m.media-amazon.com/images/M/MV5BODNlZDg3YmItZTA2Mi00ZWEzLWJkNjUtMTk5NjQwZDdjNWU2XkEyXkFqcGdeQWRvb2xpbmhk._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "https://deadline.com/wp-content/uploads/2017/03/modern8.jpg?w=1024"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1k"
+  },
+  "id": 17,
+  "text": "Does The Boys have",
+  "text2": "more viewers than Wacthmen?",
+  "answer": true,
+  "imageUrls": [
+    "https://m.media-amazon.com/images/M/MV5BOTU5MDdhYWYtNzU1OS00ZDU5LTk3OWMtNTNiYjU5ZmUxMmFkXkEyXkFqcGdeQWFybm8@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "https://lawliberty.org/app/uploads/2020/01/Watchmen-1060x596.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1l"
+  },
+  "id": 18,
+  "text": "Does Euphoria have",
+  "text2": "more viewers than 13 Reasons Why?",
+  "answer": true,
+  "imageUrls": [
+    "https://www.indiewire.com/wp-content/uploads/2022/08/Euphoria.webp?w=600&h=337&crop=1",
+    "https://images.ctfassets.net/zkw0qlnf0vqv/psycom_page_fid14584_asset_14583/16522d223a95616afcbb656615be33eb/features-13-reasons-why-jjj?fm=webp&q=50&w=1200&h=600&fit=thumb"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1m"
+  },
+  "id": 19,
+  "text": "Does Ted Lasso have",
+  "text2": "more viewers than The Morning Show?",
+  "answer": true,
+  "imageUrls": [
+    "https://m.media-amazon.com/images/M/MV5BZGU2YmZiNjQtNWFkMi00NWVhLWJkZDUtZjUwNjNhZGU0NTc0XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "https://cdn.vox-cdn.com/thumbor/EPDM33DFYvGXBU146T9A3M-YFEo=/0x0:2070x1380/1200x675/filters:focal(831x256:1161x586)/cdn.vox-cdn.com/uploads/chorus_image/image/65606662/191024_themorningshow.0.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1n"
+  },
+  "id": 20,
+  "text": "Does Better Call Saul have",
+  "text2": "more viewers than Breaking Bad?",
+  "answer": false,
+  "imageUrls": [
+    "https://media.npr.org/assets/img/2022/07/22/bcs_609_gl_1005_0864-rt_wide-9c128886deffaac516ce72edaf000d8c44193722.jpg?s=1100&c=50&f=jpeg",
+    "https://resizing.flixster.com/PLUQRzpsaCQazJPOsdc6CI4AxIk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8696131_b_h9_aa.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1o"
+  },
+  "id": 21,
+  "text": "Does The Great have",
+  "text2": "more viewers than Dickinson?",
+  "answer": false,
+  "imageUrls": [
+    "https://i.ytimg.com/vi/porSE6GlclE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-DBu4H-0oPmlL3N8yzwSiZ_cYcw",
+    "https://tv-fanatic-res.cloudinary.com/iu/s--pbVnHHvj--/f_auto,q_auto/v1611861612/lavinia-and-sue-dickinson-s2e6"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1p"
+  },
+  "id": 22,
+  "text": "Does Warrior Nun have",
+  "text2": "more viewers than Cursed?",
+  "answer": false,
+  "imageUrls": [
+    "https://deadline.com/wp-content/uploads/2023/08/warrior-nun-alba-baptista-ava-silva.jpg?w=1024",
+    "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbXY76cZLJkq5UKR2KEa7aGzYtT2UAxgN1Q0c79n3BgI_e36uk8FMswho4h5rqsmlcsvVZ3p_cBKGhzyWi4NCsurbHr66QenCh2f5TFcEbuZbjI-7LrNqLDD.jpg?r=20d"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1q"
+  },
+  "id": 23,
+  "text": "Does Severance have",
+  "text2": "more viewers than The dropout?",
+  "answer": true,
+  "imageUrls": [
+    "https://compote.slate.com/images/6e99d534-a751-4831-ad8d-554e195e273e.jpeg?crop=1013%2C675%2Cx0%2Cy0",
+    "https://variety.com/wp-content/uploads/2021/12/The-Dropout-02.jpg?w=1000"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1r"
+  },
+  "id": 24,
+  "text": "Does Arcane have",
+  "text2": "more viewers than Castlevania?",
+  "answer": true,
+  "imageUrls": [
+    "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F09%2Fnetflix-arcane-season-2-2024-premiere-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+    "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbQ_O2o0pZElcGjTAsoaHdDP5eK3HvTbNXJbJ2rldreVmTlNNT-7bO4dkGlOT_0S74LK64VIHLGH_pbsIWixU7qHbVjL6c3XQfFfSc6VaGaiUxaD5zxqfLYK8g.jpg?r=d47"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1s"
+  },
+  "id": 25,
+  "text": "Does Midnight Mass have",
+  "text2": "more viewers than The Outsider?",
+  "answer": false,
+  "imageUrls": [
+    "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRyFvM1-ZTkL7DTkl8nesV-VVmL76G0JEI0-qy_WdbSLkXHOjGrUjKjfiBbs0iszvrrH5kebbPHqE0CbhWqV_NPPqULFZDOzD7h3iIj0Otyuk0yZouAP0KLo.jpg?r=cf9",
+    "https://assets.playbill.com/editorial/_articleLeadImage/01_OUT_PhotoArt_HeroPhoto_A_Photo_By_Miller_Mobley.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1t"
+  },
+  "id": 26,
+  "text": "Does YellowJackets have",
+  "text2": "more viewers than The Wilds?",
+  "answer": true,
+  "imageUrls": [
+    "https://wwwimage-us.pplusstatic.com/base/files/seo/yj_s02_social_1200x627.jpg",
+    "https://i0.wp.com/thekoalition.com/images/2021/01/3189363.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg?fit=750%2C422&ssl=1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1u"
+  },
+  "id": 27,
+  "text": "Does Cobra Kai have",
+  "text2": "more viewers than Daredevil?",
+  "answer": true,
+  "imageUrls": [
+    "https://variety.com/wp-content/uploads/2024/05/Cobra-Kai-season-6.jpg?w=1000&h=667&crop=1",
+    "https://variety.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-07-at-5.05.29-PM.png?w=1000&h=563&crop=1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1v"
+  },
+  "id": 28,
+  "text": "Does P valley have",
+  "text2": "more viewers than Harlem?",
+  "answer": false,
+  "imageUrls": [
+    "https://i.insider.com/629a1690e319620018a85cf1?width=700",
+    "https://www.indiewire.com/wp-content/uploads/2021/12/HRLM_S1_101_200210_SHASAR_1436RC.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1w"
+  },
+  "id": 29,
+  "text": "Does Dr. Death have",
+  "text2": "more viewers than The Good Doctor?",
+  "answer": true,
+  "imageUrls": [
+    "https://www.peacocktv.com/dam/growth/assets/Originals/DrDeath/dr-death-s2-social.jpg",
+    "https://whstoday.com/wp-content/uploads/2017/11/The_Good_Doctor_2017.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66327863ad1f0426f5ab6a1x"
+  },
+  "id": 30,
+  "text": "Does Loki have",
+  "text2": "more viewers than Wandavision?",
+  "answer": true,
+  "imageUrls": [
+    "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/10/a1-3.jpg",
+    "https://cdn.mos.cms.futurecdn.net/rBa6zgmtewGMwNHEacP2Ao.jpg"
+  ]
+}
+]
